@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 剑指offer 面试题5 替换空格
  * @author QingXi
- *
+ * 详情见 http://blog.csdn.net/zqx1205/article/details/77776953
  */
 
 public class Solution5 {

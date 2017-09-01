@@ -3,7 +3,7 @@ package jianzhiOffer;
 /**
  * 剑指offer 面试题3 题目二 ： 不修改数组找出重复的数字
  * @author QingXi
- * 
+ * 详情见 http://blog.csdn.net/zqx1205/article/details/77765057
  */
 
 public class Solution3_2 {
